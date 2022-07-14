@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Álvaro, a front-end-oriented full-stack developer.
 
-- 👀 I'm interested in React, Typescript and the modern front-end webdev ecosystem.
+- 👀 I'm interested in Angular, React, Typescript and the modern front-end webdev ecosystem.
 - 🌱 I'm currently learning testing and web performance.
 - 🔭 I'm looking to expand my back-end knowledge.
 - 💬 I enjoy a good conversation about technology.
